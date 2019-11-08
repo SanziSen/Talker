@@ -1,2 +1,2 @@
-# talker
+# Talker
 Advanced chatbot
